@@ -1,8 +1,3 @@
-# Bank managment system by C++
-===========================
-  BANK MANAGEMENT SYSTEM
-===========================
-
 📁 Project Title:
 ------------------
 Bank Account Management using C++
